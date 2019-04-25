@@ -6,5 +6,4 @@ class CreateCats < ActiveRecord::Migration
       t.string :breed
     end
   end
-
 end
